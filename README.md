@@ -46,6 +46,20 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ## Technology used
 Mongoose, Node.js, Express.js, React.js
 
+## Screenshots
+### Saved Books
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/104780360/181114711-bd62bf85-43b0-44a8-86c0-6d48ca4deac1.png">
+
+## Issues
+Minor issues had to do with bbeing able to view my saved books. I also had a slight trouble with deploying to heroku
+- Special thanks to Dominick from BCS who helped me fix some errors
+
+
+
+## Deployed app - link
+https://secret-beach-84225.herokuapp.com/
+
 ## Contact
 If you have any questions, please reach out to the<br>
 Author: Kwasi Dankwa <br>
